@@ -1,0 +1,3 @@
+let dieRoll = []
+
+addEventListener("click")
