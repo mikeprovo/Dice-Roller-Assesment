@@ -17,4 +17,8 @@ rollButton.addEventListener("click", function) () {
         }
 }
 
+showAllButton.addEventListener("click", function) () {
+    
+}
+
 //* need to create a java function to add up the sum and make the reveal button show an ordered list of the dice rolls //*
