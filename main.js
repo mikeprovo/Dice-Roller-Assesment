@@ -17,7 +17,6 @@ rollButton.addEventListener("click", function) () {
             resultForEachDice = Math.floor((Math.random() * 6) + 1)
             dieRoll.push(resultForEachDice);
         }
-<<<<<<< HEAD
 
 
 }
@@ -27,13 +26,7 @@ let numberOfRolls=dieRolls.length, roll,i;
     for (i = 0; i < numberOfRolls; ++i) {  
     }
 }
-=======
 }
-
-showAllButton.addEventListener("click", function) () {
-
-}
-
 //* need to create a java function to add up the sum and make the reveal button show an ordered list of the dice rolls //*
 
 /* function rnd(dice){
@@ -69,4 +62,3 @@ console.log(results);
 console.log(counts);    
 
 Cite: user663031 https://stackoverflow.com/questions/46438847/dice-roll-counter-in-javascript /*
->>>>>>> cfa956bff6bbae79d5e6d3ebc849165154efb664
